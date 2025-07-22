@@ -1,1 +1,0 @@
-print("RTFM the F-ing manual)")
